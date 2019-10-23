@@ -182,12 +182,6 @@
 }
 
 .page__hero-image {
-  width: 100%;
-  height: auto;
-  -ms-interpolation-mode: bicubic;
-}
-
-.page__hero-image {
 	position: relative;
 	margin-bottom: 2em;
 	@include clearfix;
@@ -200,7 +194,6 @@
 		width: 0;
 		height: 0;
 		border: 10px solid transparent;
-		border-bottom-color: $bodycolor;
 		@media #{$small} {
 			left: 25%;
 		}
