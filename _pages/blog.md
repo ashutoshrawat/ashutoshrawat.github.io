@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /posts/
+permalink: /blog/
 title: "Computational Mechancis Posts by Tags"
 author_profile: true
 ---
