@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Ashutosh Rawat"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning Engineer,\nSparkcognition"
+  bio              : "Machine Learning Engineer\nSparkcognition"
   location         : "Kanpur,India"
   email            :
   uri              :
