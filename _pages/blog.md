@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: posts
 permalink: /blog/
-title: "Computational Mechancis Posts by Tags"
+title: "Posts by Year"
 author_profile: true
 ---
 {% include base_path %}
