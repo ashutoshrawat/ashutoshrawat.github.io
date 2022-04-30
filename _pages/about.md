@@ -5,4 +5,4 @@ header:
   image: #
 ---
 
-I'am a undergrad student interested in Computaional Mechanics.
+I am a Machine Learning Engineer at Sparkcognition, working in the domain of renewable energy.
