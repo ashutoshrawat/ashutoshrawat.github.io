@@ -103,7 +103,7 @@ author:
   name             : "Ashutosh Rawat"
   avatar           : "/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning Engineer\nSparkcognition"
-  location         : "Kanpur,India"
+  location         : "Bangalore, India"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
