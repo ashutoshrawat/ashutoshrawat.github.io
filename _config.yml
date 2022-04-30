@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Ashutosh Rawat"
-description              : "Computational Mechancis Portfolio"
+description              : "Data Scientist Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -119,7 +119,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "ashutosh-rawat" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
