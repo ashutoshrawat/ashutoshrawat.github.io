@@ -12,4 +12,6 @@ A lot has been said and written about neural network. My goal here is not reiter
 Just for the context a brief introduction:
 >A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates
 
-The neurons are the building blocks of neural network. In reality they are just some mathematical function that transforms the input data. So, in simple terms what neural network does is take any input (which is some sort of data) and using neurons (or mathematical functions) map it to an output. And, when we say we are training a neural network it means that we are trying to figure out this mapping.
+The neurons are the building blocks of neural network. In reality they are just some mathematical function that transforms the input data. So, in simple terms what neural network does is take any input (which is some sort of data) and using neurons (or mathematical functions) map it to an output. And, when we say we are training a neural network it means that we are trying to figure out this mapping. A simple neural network would look like this:
+
+Screenshot 2022-05-07 at 7.00.17 PM.png
