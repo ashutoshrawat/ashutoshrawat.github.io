@@ -14,10 +14,6 @@ Just for the context a brief introduction:
 
 The neurons are the building blocks of neural network. In reality they are just some mathematical function that transforms the input data. So, in simple terms what neural network does is take any input (which is some sort of data) and using neurons (or mathematical functions) map it to an output. And, when we say we are training a neural network it means that we are trying to figure out this mapping. A simple neural network would look like this:
 
-<div style="width:50px; height:50px">
-![Sample Neural Network](/assets/images/nn_from_scratch/simple_nn.png)
-</div>
-
 <br/>
-<img src ="https://raw.githubusercontent.com/ashutoshrawat/ashutoshrawat.github.io/master/assets/images/nn_from_scratch/simple_nn.png" align='center'> <br/>
+<img src ="https://raw.githubusercontent.com/ashutoshrawat/ashutoshrawat.github.io/master/assets/images/nn_from_scratch/simple_nn.png" align='center' width='100' height='100'> <br/>
 
