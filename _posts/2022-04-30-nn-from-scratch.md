@@ -17,3 +17,5 @@ The neurons are the building blocks of neural network. In reality they are just 
 <img src ="https://raw.githubusercontent.com/ashutoshrawat/ashutoshrawat.github.io/master/assets/images/nn_from_scratch/simple_nn.png" width='500' height='500' align='center'/>
 <center>Fig: Single dense layer perceptron network</center> <br/>
 
+![image-right](/assets/images/nn_from_scratch/simple_nn.png){: .align-center width="45%"}
+
