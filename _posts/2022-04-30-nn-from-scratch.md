@@ -18,4 +18,6 @@ The neurons are the building blocks of neural network. In reality they are just 
 ![Sample Neural Network](/assets/images/nn_from_scratch/simple_nn.png)
 </div>
 
-<img width=”250" height=”400" src=”https://raw.githubusercontent.com/ashutoshrawat/ashutoshrawat.github.io/blob/master/assets/images/nn_from_scratch/simple_nn.png" />
+<br/>
+<img src ="https://raw.githubusercontent.com/ashutoshrawat/ashutoshrawat.github.io/master/assets/images/nn_from_scratch/simple_nn.png" align='center'> <br/>
+
